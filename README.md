@@ -8,6 +8,4 @@ Using linear SVM to select characteristic wavelengths for deep learning applicai
 Using various famous deep learning models (VGG, ResNet, DenseNet and Swin-Transformer) to predict CNC level, detail code in [Deep_learning](https://github.com/jinnuozhang/CNC_Level_Prediction/blob/9a2881e69e840573de165eb103c06e894d49533f/Deep_learning.py) file.
 
 ## Copyright
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
